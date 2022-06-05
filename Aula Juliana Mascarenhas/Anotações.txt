@@ -1,0 +1,21 @@
+Pontos importantes do curso de introdução a programação e pensamento computacional:
+
+
+1 - É importante ter e exercitar nosso cerebro para resolver problemas utilizando de lógica, pois ele é um musculo e precisa ser treinado.
+
+2 - A lógica computacional é importante, pois ela não utiliza de intuição e sim de fatos. Ou seja, ela é mais objetiva.
+
+3 - É importante entendermos que existe várias formas de se analizar um problema, como: 
+
+*Analise Lexica que se resume a: Particionar > Classificar > Eliminar.
+
+*Analise Sintática que se resume a:  Componente do sistema linguístico que interligam os
+constituintes da sentença, atribuindo-lhe uma estrutura.
+
+*Analise Semantica que se resume a: É o estudo do significado. Incide sobre a relação entre significantes, como: palavras, frases, sinais e símbolos.
+
+4 - Entendemos um pouco sobre o que são os Paradigmas: Forma de resolução de problemas com diretrizes e limitações específicas de cada paradigma utilizando linguagem de 
+programação. E dentro disso ficamos sabendo também sobre as subcategorias das classificações como Orientação à objeto, procedural, funcional, estruturado, computação distribuida
+e lógico.
+
+5 - Entedemos o que é um 'Objeto' e que ele é descrito por caracteristicas especificas, comportamento e estado.
