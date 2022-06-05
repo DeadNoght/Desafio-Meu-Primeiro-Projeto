@@ -1,0 +1,9 @@
+Link para o curso sobre GIT e GITHUB: https://web.dio.me/course/introducao-ao-git-e-ao-github/learning/75b9fe49-6ed4-4480-83a7-7e37fc356aa9?back=/track/santander-bootcamp-fullstack-developer&tab=undefined&moduleId=undefined
+
+Para realizar o download do GIT: https://git-scm.com/downloads
+
+Para acessar o GITHUB: github.com
+
+
+Minhas considerações: O intuito é fazer com que pessoas de locais diferentes possam se ajudar fazendo um 'pushing' dos códigos e ir melhorando e desenvolvendo o código.
+É importante usar o comando 'git clone' + link SSH ou HTTPS no git bash para fazer o upload do código para a pasta que você quiser.
