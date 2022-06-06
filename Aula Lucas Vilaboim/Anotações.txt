@@ -1,0 +1,21 @@
+Anotações importantes sobre o curso de HTML 5 e CSS3.
+
+* Tudo dentro de um arquivo .html é considerado um 'elemento'
+
+Como funciona o Elemento? O elemento é a base do HTML. 
+O elemento começa com uma TAG de abertura e o que ele vai fazer, em seguida temos o conteúdo e o a TAG de fechamento.
+Obs: A TAG pode ter um atributo, e esse atributo pode mudar conforme a leitura do navegador.
+
+Estrutura Básica:
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta> //informações que o navegador necessita, ex: charset.
+		<title></title>
+	</head>
+	<body>
+	</body>
+</html>	
+
+
